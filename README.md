@@ -1,7 +1,5 @@
 # Teste de Estágio para Target Sistemas
 
-##
-
 ### Para rodar o APP é bem simples
 
 - Abra o Projeto na sua IDE de preferência.
